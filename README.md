@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Animes**
+## Best Animes!**
 
 ### **O que é esse negócio?**
 
