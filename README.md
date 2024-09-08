@@ -44,12 +44,3 @@
 ---
 
 **#anime #javascript #html #css #projeto #desenvolvimentoweb #openSource**
-
-**Observações:**
-
-* **Adapte a linguagem:** Ajuste o tom e a informalidade do README de acordo com o seu público-alvo.
-* **Adicione mais detalhes:** Se quiser, pode incluir informações sobre como configurar o ambiente de desenvolvimento, como contribuir com o projeto, etc.
-* **Utilize imagens:** Uma imagem vale mais que mil palavras! Adicione imagens para ilustrar o seu projeto.
-* **Crie um README mais técnico:** Se o seu público-alvo for mais técnico, pode incluir diagramas de fluxos, explicações detalhadas sobre a arquitetura do projeto, etc.
-
-**Com esse README, você terá um guia divertido e informativo para o seu projeto de animes!**
